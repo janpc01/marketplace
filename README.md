@@ -17,3 +17,4 @@ Marketplace (ability to make, select and buy Kyoso Cards):
 -add items to basket
 -checkout from basket
 -payment information
+test
